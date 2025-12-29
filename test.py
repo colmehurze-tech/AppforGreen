@@ -1,2 +1,2 @@
 import os
-os.uname("h")
+os.system("whoami")
